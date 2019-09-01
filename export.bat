@@ -1,1 +1,1 @@
-marp --pptx --allow-local-files README.md
+marp --pptx --allow-local-files HoloLensMeetupTokyo17.md
